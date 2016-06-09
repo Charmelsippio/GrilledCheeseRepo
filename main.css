@@ -1,0 +1,47 @@
+img {
+	padding-left: 200px;
+}
+
+nav {
+	margin-top: 0px;
+	padding-left: 400px;
+
+}
+
+ul {
+	list-style: none;
+	text-decoration: none;
+}
+
+li {
+
+	float: left;
+	padding-left: 50px;
+	padding-bottom: 50px;
+	font-size: 20px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	color: blue;
+}
+
+#chs1 {
+	float: left;
+	padding-left: 0px;
+	padding-right: 20px;
+	width: 20%;
+	height: 20%;
+}
+
+h2 {
+	clear: both;
+}
+
+p {
+
+}
