@@ -1,5 +1,13 @@
+body {
+	top: 0px;
+	background-color: red;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
 img {
 	padding-left: 200px;
+	padding-bottom: 20px;
 }
 
 nav {
@@ -34,6 +42,17 @@ a:hover {
 	float: left;
 	padding-left: 0px;
 	padding-right: 20px;
+	width: 20%;
+	height: 20%;
+}
+
+.flt {
+	float: right;
+}
+
+#bbychs {
+	float: right;
+	padding-right: 0px;
 	width: 20%;
 	height: 20%;
 }
