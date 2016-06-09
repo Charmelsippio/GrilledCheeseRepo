@@ -1,0 +1,18 @@
+body{
+	background-color: black;
+}
+
+
+.img{
+	float:left;
+	border: 1px solid white;
+	margin: 5px;
+}
+
+.desc{
+	font-family: arial;
+	color: red;
+	padding: 3px;
+	text-align: center;
+}
+
