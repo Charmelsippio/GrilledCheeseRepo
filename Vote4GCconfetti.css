@@ -1,0 +1,158 @@
+body {
+	background-image: url("grilledcheese.jpeg");
+	background-size: cover;
+}
+
+.confetti {
+	width: 40px;
+	height: 40px;
+	margin-top: -100px;
+	background-image: url("cheese.png");
+	position: relative;
+	animation: confetti 6s;
+	-webkit-animation: confetti 6s;
+	-webkit-animation-iteration-count: infinite;
+	-o-animation-iteration-count: infinite;
+}
+
+@keyframes confetti {
+	0% {top: 0px;}
+	100% {top: 1300px;}
+}
+
+@-webkit-keyframes confetti {
+	0% {top: 0px;}
+	100% {top: 1300px;}
+}
+
+.cheese1 {
+	margin-left: 50px;
+	animation-delay: 1s;
+	-webkit-animation-delay: 1s;
+}
+
+.cheese2 {
+	margin-left: 300px;
+}
+
+.cheese4 {
+	margin-left: 900px;
+	animation-delay: 1.5s;
+	-webkit-animation-delay: 1.5s;
+}
+
+.cheese2, .cheese17 {
+	animation-delay: 3s;
+	-webkit-animation-delay:3s;
+}
+
+.cheese17 {
+	margin-left: 70px;
+}
+
+.cheese9 {
+	margin-left: 1050px;
+}
+
+.cheese9, .cheese3 {
+	animation-delay: 1s;
+	-webkit-animation-delay: 1s;
+}
+
+.cheese3 {
+	margin-left: 350px;
+}
+
+.cheese15 {
+	animation-delay: 4s;
+	-webkit-animation-delay:4s;
+	margin-left: 350px;
+}
+
+.cheese21, .cheese8, .cheese13 {
+	animation-delay: 2s;
+	-webkit-animation-delay: 2s;
+}
+
+.cheese21 {
+	margin-left: 30px;
+}
+
+.cheese8 {
+	margin-left: 500px;
+}
+
+.cheese13 {
+	margin-left: 800px;
+}
+
+.cheese7, .cheese20 {
+	animation-delay: 5s;
+	-webkit-animation-delay:5s;
+}
+
+.cheese7 {
+	margin-left: 750px;
+}
+
+.cheese20 {
+	margin-left: 350px;
+}
+
+.cheese16, .cheese5 {
+	animation-delay: 2.5s;
+	-webkit-animation-delay: 2.5s;
+}
+
+.cheese16 {
+	margin-left: 180px;
+}
+
+.cheese5 {
+	margin-left: 580px;
+}
+
+.cheese6, .cheese19 {
+	animation-delay: 1s;
+	-webkit-animation-delay: 1s;
+}
+
+.cheese6 {
+	margin-left: 111px;
+}
+
+.cheese19 {
+	margin-left: 1300px;
+}
+
+.cheese10, .cheese18 {
+	animation-delay: 3.5s;
+	-webkit-animation-delay: 3.5s;
+}
+
+.cheese10 {
+	margin-left: 400px;
+}
+
+.cheese18 {
+	margin-left: 700px;
+}
+
+.cheese11, .cheese12 {
+	animation-delay: 3s;
+	-webkit-animation-delay: 3s;
+}
+
+.cheese11 {
+	margin-left: 480px;
+}
+
+.cheese12 {
+	margin-left: 1350px;
+}
+
+.cheese14 {
+	animation-delay: 4.5s;
+	-webkit-animation-delay: 4.5s;
+	margin-left: 660px;
+}
