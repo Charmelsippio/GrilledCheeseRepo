@@ -92,3 +92,9 @@ h2 {
 	clear: both;
 	border-top: 1px solid black;
 }
+
+.social {
+	float: right;
+	width: 30px;
+	height: 30px;
+}
