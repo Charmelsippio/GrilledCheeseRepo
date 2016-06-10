@@ -1,18 +1,48 @@
-body{
-	background-color: black;
+.img{
+	border: 1px solid black;
+	width:300px;
+	padding: 5px;
+	display: inline-block;
+	height: 400px;
+	margin: 30px;
+	vertical-align: top;
 }
 
 
-.img{
-	float:left;
-	border: 1px solid white;
-	margin: 5px;
+.title{
+	font-family: papyrus;
+	text-align: center;
 }
 
 .desc{
-	font-family: arial;
-	color: red;
-	padding: 3px;
-	text-align: center;
+	font-family: Comic Sans;
+	text-align: justify;
 }
+
+
+
+article img{
+	border: 1px solid red;
+}
+
+#bg {
+  position: fixed; 
+  z-index: -1;
+  top: -50%; 
+  left: -50%; 
+  width: 200%; 
+  height: 200%;
+}
+#bg img {
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  right: 0; 
+  bottom: 0; 
+  margin: auto; 
+  min-width: 50%;
+  min-height: 50%;
+}
+
+
 
