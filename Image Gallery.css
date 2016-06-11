@@ -1,22 +1,42 @@
 .img{
-	border: 1px solid black;
+	border: 1px solid red;
 	width:300px;
 	padding: 5px;
-	display: inline-block;
+	float: left;
 	height: 400px;
 	margin: 30px;
 	vertical-align: top;
 }
 
+.break{
+  clear: left;
+}
+
+#sandwich{
+  border: 1px solid red;
+  margin:2px;
+}
+
+#bread{
+  border: 1px solid red;
+  margin:6px;
+}
+
+#cheese{
+  border: 1px solid red;
+  margin:6px;
+}
 
 .title{
 	font-family: papyrus;
 	text-align: center;
+  color: white;
 }
 
 .desc{
 	font-family: Comic Sans;
 	text-align: justify;
+  color: white;
 }
 
 
