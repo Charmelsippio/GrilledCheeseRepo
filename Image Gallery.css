@@ -1,11 +1,18 @@
 .img{
-	border: 1px solid red;
-	width:300px;
+	border: 1px solid blue;
+	width:600px;
 	padding: 5px;
 	float: left;
-	height: 400px;
+	height: 600px;
 	margin: 30px;
 	vertical-align: top;
+}
+
+.hd{
+  color: white;
+  font-size: 25px;
+  font-style: italic;
+  text-align: center;
 }
 
 .break{
@@ -13,17 +20,18 @@
 }
 
 #sandwich{
-  border: 1px solid red;
+  border: 1px solid blue;
   margin:2px;
+  margin-bottom: 20px;
 }
 
 #bread{
-  border: 1px solid red;
+  border: 1px solid blue;
   margin:6px;
 }
 
 #cheese{
-  border: 1px solid red;
+  border: 1px solid blue;
   margin:6px;
 }
 
@@ -31,18 +39,20 @@
 	font-family: papyrus;
 	text-align: center;
   color: white;
+  font-size: 19px;
 }
 
 .desc{
 	font-family: Comic Sans;
 	text-align: justify;
   color: white;
+  font-size: 19px;
 }
 
 
 
 article img{
-	border: 1px solid red;
+	border: 1px solid blue;
 }
 
 #bg {
@@ -64,5 +74,50 @@ article img{
   min-height: 50%;
 }
 
+.hm {
+  background-color: white;
+  width: 100%;
+}
+
+nav {
+  margin-top: 0px;
+  padding-left: 400px;
+  background-color: white;
+  width: 100%;
+}
+
+ul {
+  list-style: none;
+  text-decoration: none;  
+}
+
+li {
+
+  float: left;
+  padding-left: 50px;
+  padding-bottom: 50px;
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: red;
+}
+
+.foot {
+  clear: both;
+  border-top: 1px solid black;
+}
+
+.social {
+  float: right;
+  width: 30px;
+  height: 30px;
+  padding: 0px;
+}
 
 
