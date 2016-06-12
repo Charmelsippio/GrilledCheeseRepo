@@ -32,7 +32,7 @@ ul.nav {
 
 .headbanner {
 	background-color: white;
-	width: 1300px;
+	width: 1050px;
 }
 
 #banner {
@@ -87,9 +87,9 @@ h1{
 }
 
 .cheese1 {
-	margin-left: 50px;
-	animation-delay: 1s;
-	-webkit-animation-delay: 1s;
+	margin-left: 210px;
+	animation-delay: .5s;
+	-webkit-animation-delay: .5s;
 }
 
 .cheese2 {
@@ -130,9 +130,14 @@ h1{
 	margin-left: 350px;
 }
 
-.cheese21, .cheese8, .cheese13 {
+.cheese21, .cheese8 {
 	animation-delay: 2s;
 	-webkit-animation-delay: 2s;
+}
+
+.cheese13 {
+	animation-delay: 2.5s;
+	-webkit-animation-delay: 2.5s;
 }
 
 .cheese21 {
@@ -140,7 +145,7 @@ h1{
 }
 
 .cheese8 {
-	margin-left: 500px;
+	margin-left: 580px;
 }
 
 .cheese13 {
@@ -173,9 +178,15 @@ h1{
 	margin-left: 580px;
 }
 
-.cheese6, .cheese19 {
+.cheese6 {
 	animation-delay: 1s;
 	-webkit-animation-delay: 1s;
+}
+
+
+.cheese19 {
+	animation-delay: 4s;
+	-webkit-animation-delay: 4s;
 }
 
 .cheese6 {
@@ -183,7 +194,7 @@ h1{
 }
 
 .cheese19 {
-	margin-left: 1300px;
+	margin-left: 280px;
 }
 
 .cheese10, .cheese18 {
@@ -192,7 +203,7 @@ h1{
 }
 
 .cheese10 {
-	margin-left: 400px;
+	margin-left: 1020px;
 }
 
 .cheese18 {
@@ -209,7 +220,7 @@ h1{
 }
 
 .cheese12 {
-	margin-left: 1200px;
+	margin-left: 990px;
 }
 
 .cheese14 {
