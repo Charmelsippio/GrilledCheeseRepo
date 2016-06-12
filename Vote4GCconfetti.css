@@ -51,7 +51,7 @@ a:hover {
 div.text {
 	width: 760px;
 	background-color: rgba(255, 255, 255, 0.73);
-	height: 250px;
+	height: 390px;
 	padding: 20px;
 	margin-left: 200px;
 	float: left;
@@ -60,7 +60,7 @@ div.text {
 
 h1{
 	text-align: center;
-	color: darkblue;
+	color: darkred;
 }
 
 .confetti {
@@ -233,6 +233,12 @@ h1{
 	clear: both;
 	display: inline-block;
 }*/
+
+#vote {
+	clear: both;
+	font-size: 40px;
+	color: darkblue;
+}
 
 #oneline {
 	clear: both;
